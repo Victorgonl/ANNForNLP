@@ -2,9 +2,6 @@
 
 ## Universidade Federal de Lavras
 
-* Elaborado por: <a href="https://github.com/Victorgonl">Victor Gonçalves Lima</a>
+Elaborado por: <a href="https://github.com/Victorgonl">Victor Gonçalves Lima</a>
 
-
-* Orientado por: <a href="https://sites.google.com/ufla.br/denilsonpereira/">Prof. Denilson Alves Pereira</a>
-
-
+Orientado por: <a href="https://sites.google.com/ufla.br/denilsonpereira/">Prof. Denilson Alves Pereira</a>
